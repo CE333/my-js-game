@@ -1,0 +1,17 @@
+{
+  "name": "Copy of Copy of Copy of بازی پرنده  Creative Energy 333  /2",
+  "short_name": "CE333",
+  "description": "Fly through dynamic seasons, collect in-game currency, and customize your avatar. This is a simulation game; tokens and USDT values are virtual and have no real-world value.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "requestFramePermissions": []
+}
